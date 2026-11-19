@@ -1,0 +1,2 @@
+ com.gossamercms.stripe.payments.config.StripeAutoConfig
+ com.gossamercms.stripe.payments.config.StripeMockAutoConfig
